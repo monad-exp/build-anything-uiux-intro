@@ -7,6 +7,7 @@ UI/UX lesson content for the BuildAnything Web3 track. Markdown lessons on user 
 | Path | Purpose |
 |------|---------|
 | [`lessons/introduction-to-uiux-for-web3.md`](lessons/introduction-to-uiux-for-web3.md) | Lesson 01 — Introduction to UI/UX Design for Web3 |
+| [`lessons/introduction-to-uiux-for-web3-resources.md`](lessons/introduction-to-uiux-for-web3-resources.md) | Resources for Lesson 01 |
 | [`assets/`](assets/) | Section visuals referenced by the lesson |
 
 ## Lessons
