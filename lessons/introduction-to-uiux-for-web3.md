@@ -327,17 +327,11 @@ The best designers treat design as an ongoing process rather than a final delive
 
 ## Key Takeaway
 
-UI/UX design is the practice of creating products that are both useful and easy to use.
+This lesson was about the foundations of UI and UX in Web3: how experience and interface work together, why trust matters, and how to think about users, structure, flows, interfaces, and iteration.
 
-In Web3, great UI/UX isn't about making things look futuristic or adding crypto jargon.
+You learned that good design is not decoration. It helps people connect a wallet, understand what they are doing, and complete actions without fear or confusion.
 
-It's about helping people interact with complex systems confidently and safely.
-
-When users can connect their wallet, complete transactions, and achieve their goals without confusion, good design becomes almost invisible.
-
-The best Web3 products don't make users think about the technology.
-
-They help users focus on what they came to do.
+That is only the starting point. Strong interfaces matter, but they are not the whole product. The next step is learning how to design the product itself — the problem it solves, the value it delivers, and the decisions that shape what gets built.
 
 **What is the ultimate goal of good Web3 UI/UX?**
 
@@ -352,4 +346,8 @@ They help users focus on what they came to do.
 
 ## What's Next
 
-You now understand what UI and UX are, why they matter in Web3, and the core design practices that help users trust your product. In the next lesson, you'll apply these principles to evaluate and improve real Web3 interfaces.
+**Course 2 — Product Design for Web3**
+
+*Learn how to design products, not just interfaces.*
+
+In the next lesson, you will move from UI/UX fundamentals to product thinking: defining user problems, shaping features, and making design decisions that go beyond screens and flows.
