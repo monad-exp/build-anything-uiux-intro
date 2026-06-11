@@ -172,7 +172,12 @@ Users should never feel lost.
 - The process of writing smart contract documentation
 - A method for choosing brand colors
 
-**Before designing visuals, designers organize information using a practice called ____________.**
+**What practice do designers use to organize content and functionality before designing visuals?**
+
+- Information Architecture
+- Visual hierarchy
+- User interface styling
+- Smart contract documentation
 
 ---
 
@@ -340,7 +345,12 @@ That is only the starting point. Strong interfaces matter, but they are not the 
 - Showing off how many smart contracts are involved
 - Making users think about the technology behind every action
 
-**The path someone takes to complete a task is called a user ____________.**
+**What do you call the path someone takes to complete a task?**
+
+- A user flow
+- A user interface
+- A wireframe
+- A design system
 
 ---
 
