@@ -1,4 +1,4 @@
-# build-anything-uiux-intro
+# build-anything-design
 
 UI/UX lesson content for the BuildAnything Web3 track. Markdown lessons on user experience, information architecture, flows, and interface design for products users trust and understand.
 
