@@ -40,21 +40,21 @@ Examples include:
 **What is the difference between UI and UX?**
 
 - UX is how a product looks; UI is how it works
-- UX is how a product works; UI is how it looks and communicates
+- ✓ UX is how a product works; UI is how it looks and communicates
 - They mean the same thing
 - UI only applies to mobile apps
 
 **What does UX design primarily focus on?**
 
 - How a product looks and communicates
-- How a product works and feels to use
+- ✓ How a product works and feels to use
 - Writing backend code
 - Choosing brand colors and fonts
 
 **Which of the following is an example of UI design?**
 
 - Mapping a checkout flow
-- Choosing typography and button layout
+- ✓ Choosing typography and button layout
 - Identifying friction in a signup flow
 - Testing whether users understand a new feature
 
@@ -78,7 +78,7 @@ Successful products succeed because users can accomplish goals with confidence.
 
 **Why do many users leave a confusing product before discovering its value?**
 
-- They form opinions quickly when a product feels difficult to use
+- ✓ They form opinions quickly when a product feels difficult to use
 - They always read the documentation first
 - Good design only matters for mobile apps
 - Users prefer products with more features, even if they are hard to use
@@ -111,7 +111,7 @@ Users care about outcomes. They do not care about how many backend systems power
 **What should designers focus on first?**
 
 - Product features and technical architecture
-- User goals and the problems they are trying to solve
+- ✓ User goals and the problems they are trying to solve
 - Visual trends in other apps
 - The number of integrations a product supports
 
@@ -147,13 +147,13 @@ Users should never feel lost.
 **What is Information Architecture?**
 
 - The visual styling of buttons and typography
-- How content and functionality are structured in a product
+- ✓ How content and functionality are structured in a product
 - The process of writing product documentation
 - A method for choosing brand colors
 
 **What practice do designers use to organize content and functionality before designing visuals?**
 
-- Information Architecture
+- ✓ Information Architecture
 - Visual hierarchy
 - User interface styling
 - Backend documentation
@@ -186,13 +186,13 @@ Every extra step introduces friction.
 **What is a user flow?**
 
 - The color palette used across an app
-- The path someone takes to complete a task
+- ✓ The path someone takes to complete a task
 - The backend architecture of a product
 - A list of all product features
 
 **Why does every extra step in a flow matter?**
 
-- It introduces friction and increases the chance users abandon the task
+- ✓ It introduces friction and increases the chance users abandon the task
 - It makes the product look more professional
 - It reduces server costs
 - It is required for good visual hierarchy
@@ -237,14 +237,14 @@ Good accessibility improves usability for everyone.
 
 **Why is consistency important in UI design?**
 
-- It reduces learning time and makes interactions feel predictable
+- ✓ It reduces learning time and makes interactions feel predictable
 - It makes every page look completely different
 - It eliminates the need for user testing
 - It replaces the need for clear visual hierarchy
 
 **Which of the following is an accessibility consideration?**
 
-- Using sufficient color contrast and clear labels
+- ✓ Using sufficient color contrast and clear labels
 - Adding as many features as possible to one screen
 - Hiding navigation to reduce clutter
 - Using the smallest text size that fits the layout
@@ -276,14 +276,14 @@ The best designers treat design as an ongoing process rather than a final delive
 **What should you do if users repeatedly abandon a flow at the same step?**
 
 - Ignore it because that step is always confusing
-- Redesign with clearer messaging or a simpler layout
+- ✓ Redesign with clearer messaging or a simpler layout
 - Remove the step entirely without testing
 - Add more technical jargon to the page
 
 **How should designers treat the design process?**
 
 - As a one-time final deliverable
-- As an ongoing process of testing and iteration
+- ✓ As an ongoing process of testing and iteration
 - As something only engineers should handle
 - As complete once the mockups are approved
 
@@ -298,13 +298,13 @@ Great design helps people achieve their goals confidently and efficiently. When 
 **What is the ultimate goal of good UI/UX?**
 
 - Making products look trendy with industry jargon
-- Helping people achieve their goals confidently and efficiently
+- ✓ Helping people achieve their goals confidently and efficiently
 - Showing off how many features a product has
 - Making users think about the technology behind every action
 
 **What do you call the path someone takes to complete a task?**
 
-- A user flow
+- ✓ A user flow
 - A user interface
 - A wireframe
 - A design system
