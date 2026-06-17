@@ -8,7 +8,7 @@ Foundational UI/UX lesson content for the BuildAnything design track. Markdown l
 |------|---------|
 | [`lessons/introduction-to-uiux-design.md`](lessons/introduction-to-uiux-design.md) | Lesson 01 — Introduction to UI/UX Design |
 | [`lessons/introduction-to-uiux-design-resources.md`](lessons/introduction-to-uiux-design-resources.md) | Resources for Lesson 01 |
-| [`assets/`](assets/) | Section visuals referenced by the lesson |
+| [`assets/lesson-01/`](assets/lesson-01/) | Section visuals referenced by the lesson |
 
 ## Lessons
 
