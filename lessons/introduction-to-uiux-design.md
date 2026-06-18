@@ -35,7 +35,7 @@ Examples include:
 - Buttons
 - Visual hierarchy
 
-![UX focuses on how a product works; UI focuses on how it looks and communicates](../assets/lesson-02/what-is-ui-ux-design.png)
+![UX focuses on how a product works; UI focuses on how it looks and communicates](../assets/lesson-01/what-is-ui-ux-design.png)
 
 **What is the difference between UI and UX?**
 
@@ -74,7 +74,7 @@ Good UI/UX helps:
 
 Successful products succeed because users can accomplish goals with confidence.
 
-![Good UI/UX helps users discover value, take action, and keep coming back](../assets/lesson-02/why-ui-ux-matters.png)
+![Good UI/UX helps users discover value, take action, and keep coming back](../assets/lesson-01/why-ui-ux-matters.png)
 
 **Why do many users leave a confusing product before discovering its value?**
 
@@ -96,7 +96,7 @@ Before designing anything, designers ask:
 - What motivations do they have?
 - What frustrations do they have?
 
-![Designers ask who users are, what they need, what motivates them, and what frustrates them](../assets/lesson-02/understanding-users.png)
+![Designers ask who users are, what they need, what motivates them, and what frustrates them](../assets/lesson-01/understanding-users.png)
 
 ### Example: Fitness Apps
 
@@ -138,7 +138,7 @@ Questions designers ask:
 - How many steps does this take?
 - Does the terminology make sense?
 
-![A clear structure helps users navigate without getting lost](../assets/lesson-02/information-architecture.png)
+![A clear structure helps users navigate without getting lost](../assets/lesson-01/information-architecture.png)
 
 A well-organized product feels effortless.
 
@@ -177,7 +177,7 @@ Designers map these journeys to identify:
 - Confusing steps
 - Opportunities to simplify
 
-![Example flow: sign up, choose an action, confirm details, complete the task](../assets/lesson-02/designing-user-flows.png)
+![Example flow: sign up, choose an action, confirm details, complete the task](../assets/lesson-01/designing-user-flows.png)
 
 The goal is to help users reach their destination with as little effort and confusion as possible.
 
@@ -233,7 +233,7 @@ Products should work for everyone through readable text, sufficient contrast, cl
 
 Good accessibility improves usability for everyone.
 
-![Good UI builds trust through visual hierarchy, consistency, and accessibility](../assets/lesson-02/creating-the-interface.png)
+![Good UI builds trust through visual hierarchy, consistency, and accessibility](../assets/lesson-01/creating-the-interface.png)
 
 **Why is consistency important in UI design?**
 
@@ -271,7 +271,7 @@ If users repeatedly abandon a checkout flow at the payment step, the design may 
 
 The best designers treat design as an ongoing process rather than a final deliverable.
 
-![Design is an ongoing cycle of test, learn, iterate, and improve](../assets/lesson-02/testing-and-iteration.png)
+![Design is an ongoing cycle of test, learn, iterate, and improve](../assets/lesson-01/testing-and-iteration.png)
 
 **What should you do if users repeatedly abandon a flow at the same step?**
 
