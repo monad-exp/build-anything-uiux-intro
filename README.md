@@ -1,6 +1,6 @@
 # build-anything-design
 
-Foundational UI/UX lesson content for the BuildAnything design track. Markdown lessons on user experience, information architecture, flows, and interface design for digital products people trust and understand.
+Foundational UI/UX and product design lesson content for the BuildAnything design track. Markdown lessons on user experience, product thinking, information architecture, flows, and interface design for digital products people trust and understand.
 
 ## What lives here
 
@@ -8,13 +8,15 @@ Foundational UI/UX lesson content for the BuildAnything design track. Markdown l
 |------|---------|
 | [`lessons/introduction-to-uiux-design.md`](lessons/introduction-to-uiux-design.md) | Lesson 01 — Introduction to UI/UX Design |
 | [`lessons/introduction-to-uiux-design-resources.md`](lessons/introduction-to-uiux-design-resources.md) | Resources for Lesson 01 |
-| [`assets/lesson-01/`](assets/lesson-01/) | Section visuals referenced by the lesson |
+| [`lessons/introduction-to-product-design.md`](lessons/introduction-to-product-design.md) | Lesson 02 — Introduction to Product Design |
+| [`assets/lesson-01/`](assets/lesson-01/) | Section visuals referenced by Lesson 01 |
 
 ## Lessons
 
 | # | Title | File |
 |---|-------|------|
 | 01 | Introduction to UI/UX Design | [`lessons/introduction-to-uiux-design.md`](lessons/introduction-to-uiux-design.md) |
+| 02 | Introduction to Product Design | [`lessons/introduction-to-product-design.md`](lessons/introduction-to-product-design.md) |
 
 ## Format
 
