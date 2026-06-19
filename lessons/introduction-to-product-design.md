@@ -2,7 +2,7 @@
 
 Learn how to decide what to build, who it is for, and why it matters before you write code, design screens, or ship a feature.
 
-If you are a developer, engineer, or someone building a product on your own, this lesson is for you. You do not need a product design title to think like a strong builder. **Product design** is the discipline of making good decisions about what a product should do, who it serves, and how you will know it worked.
+You do not need a product design title to make strong product decisions. **Product design** is the discipline of deciding what a product should do, who it serves, and how you will know it worked.
 
 In Lesson 01, you learned how UI/UX helps people use a product successfully. Product design comes before that. It connects user needs, business goals, and technical reality into decisions about what is worth building in the first place.
 
@@ -11,7 +11,7 @@ Think of it this way:
 - **Product design** decides that a meal-planning app should help busy parents save time on weeknight dinners.
 - **UI/UX design** decides how those parents browse recipes, build a grocery list, and check off steps without getting lost.
 
-As a builder, you need both mindsets. Writing clean code or shipping fast does not help if you built the wrong thing.
+You need both mindsets. Shipping quickly or building something technically impressive does not help if you built the wrong thing.
 
 ---
 
@@ -61,7 +61,7 @@ Product thinking and UI/UX work together, but they answer different questions.
 | Typical outputs | Problem statements, feature priorities, success metrics | Flows, wireframes, interfaces, usability improvements |
 | Success looks like | Solving the right problem for the right users | Making that solution easy to understand and use |
 
-This matters for builders because it is easy to jump straight into implementation. You might start coding an auth system, dashboard, or API before asking whether users actually need it, in that form, in that order.
+It is easy to jump straight into implementation. You might start building an auth system, dashboard, or API before asking whether users actually need it, in that form, in that order.
 
 A polished interface cannot fix a product that solves the wrong problem. A strong idea still fails if users cannot figure out how to use it.
 
@@ -85,7 +85,7 @@ Before adding functionality, try to understand:
 - What have users already tried?
 - What would success look like for them?
 
-A clear **problem statement** keeps you aligned, especially when you are building solo or working on a small team. It describes who has the problem, what goes wrong today, and why it matters.
+A clear **problem statement** keeps everyone aligned. It describes who has the problem, what goes wrong today, and why it matters.
 
 ### Example: Online Booking
 
@@ -93,7 +93,7 @@ A salon owner might ask for "an app with push notifications and loyalty points."
 
 Product thinking reframes the request around the actual user need before you decide what to build.
 
-Engineers often receive requests phrased as solutions: "Add a dashboard," "Build an export button," "Support webhooks." Your job is to understand the problem behind the request before treating it as a spec.
+Teams often receive requests phrased as solutions: "Add a dashboard," "Build an export button," "Support webhooks." The better move is to understand the problem behind the request before treating it as a spec.
 
 **What should you prioritize before adding features?**
 
@@ -136,7 +136,7 @@ If a feature does not move users toward a meaningful outcome, it may not belong 
 - An output is always more important than an outcome
 - Outcomes only matter for marketing teams
 
-**Why should builders focus on outcomes?**
+**Why should you focus on outcomes?**
 
 - ✓ It keeps the product centered on user progress, not feature count
 - It eliminates the need to talk to users
@@ -149,7 +149,7 @@ If a feature does not move users toward a meaningful outcome, it may not belong 
 
 The **curse of knowledge** happens when you know something so well that you forget what it feels like not to know it.
 
-This trap is especially common for developers and engineers. Once you understand a system, it is easy to assume:
+This trap is especially common when you know a product or system deeply. Once you understand how something works, it is easy to assume:
 
 - Labels are obvious
 - Steps are self-explanatory
@@ -176,7 +176,7 @@ Fight the curse of knowledge by:
 - The idea that users always read documentation first
 - A visual design principle about color contrast
 
-**How can builders reduce the curse of knowledge?**
+**How can you reduce the curse of knowledge?**
 
 - ✓ Test with new users and use plain language
 - Assume your own understanding represents all users
@@ -203,7 +203,7 @@ Examples of success metrics:
 - Retention after the first week
 - Support tickets related to a core workflow
 
-For developers, this is practical. If you know what success looks like, you can instrument it, log the right events, and avoid optimizing the wrong thing.
+If you know what success looks like, you can measure it, track the right signals, and avoid optimizing the wrong thing.
 
 Metrics do not replace empathy. They help you know whether you solved the right problem or just shipped something that looks finished.
 
@@ -279,7 +279,7 @@ Instead of guessing, treat decisions as **hypotheses**:
 
 Hypotheses can be tested, measured, and revised. That keeps product thinking grounded in reality instead of opinion alone.
 
-This mindset is especially useful for engineers. You do not need to debate forever in a meeting. You can build the smallest test, measure the result, and learn.
+This mindset helps you move faster with less guesswork. You can test the smallest version of an idea, measure the result, and learn from it.
 
 **Why use hypotheses when building a product?**
 
@@ -299,7 +299,7 @@ This mindset is especially useful for engineers. You do not need to debate forev
 
 ## Building With Others
 
-Even if you are building alone, product decisions rarely happen in isolation.
+Even if you are working alone, product decisions rarely happen in isolation.
 
 You may need to align with:
 
@@ -309,7 +309,7 @@ You may need to align with:
 
 Clear communication matters. A problem statement, success metric, and prioritized feature list help everyone build toward the same outcome instead of debating disconnected ideas.
 
-If you are a developer on a team, product thinking helps you push back thoughtfully when a request is vague, ask better clarifying questions, and suggest smaller ways to test an idea before a large build.
+On a team, product thinking helps you push back thoughtfully when a request is vague, ask better clarifying questions, and suggest smaller ways to test an idea before a large build.
 
 **Why does product thinking matter on a team?**
 
@@ -369,7 +369,7 @@ If most users abandon the flow after adding items to their cart, the problem may
 
 Product design is about solving the right problem for the right people in a way that creates real value.
 
-Whether you are building solo or on a team, strong builders stay close to user needs, define success early, prioritize ruthlessly, and test their assumptions. Clear interfaces matter, but clarity starts long before the first screen or line of code.
+Strong product thinking means staying close to user needs, defining success early, prioritizing ruthlessly, and testing assumptions. Clear interfaces matter, but clarity starts long before the first screen or line of code.
 
 Watch for traps like the **curse of knowledge**, where you assume users understand what already feels obvious to you because you built the system.
 
