@@ -66,9 +66,6 @@ It is easy to jump straight into implementation. You might start building an aut
 
 A polished interface cannot fix a product that solves the wrong problem. A strong idea still fails if users cannot figure out how to use it.
 
-![Product design focuses on problem, decision, and outcome; UI/UX design focuses on feature, flow, and interface](../assets/lesson-02/what-to-build-vs-how-it-works.svg)
-
-
 **What is the main difference between product design and UI/UX design?**
 
 - ✓ Product design decides what to build; UI/UX design focuses on how people use it
