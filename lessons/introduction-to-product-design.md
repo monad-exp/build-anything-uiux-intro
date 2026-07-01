@@ -29,6 +29,8 @@ Before you build, ask:
 
 A product is not just an interface or a codebase. It is the combination of features, flows, messaging, and outcomes that help people accomplish something meaningful.
 
+![Product design focuses on problem, decision, and outcome; UI/UX design focuses on feature, flow, and interface](../assets/lesson-02/what-is-product-design.svg)
+
 ### Example: A Project Management Tool
 
 Users do not want "more features." They want to finish work on time, stay aligned with their team, and feel less overwhelmed.

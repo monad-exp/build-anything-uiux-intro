@@ -9,6 +9,7 @@ SRC_DIR = "/Users/ishii/.cursor/projects/Users-ishii-Downloads-monad-build-anyth
 OUT_DIR = os.path.join(REPO, "assets", "lesson-02")
 
 MAPPING = [
+    ("1_What_is_Product_Design_-ee2d1f33-5996-4961-8869-d123a0a14935.png", "what-is-product-design.svg"),
     ("1_What_is_UIUX_Design_-8a2a3ff9-9680-466b-aa9f-f40af30b6619.png", "what-to-build-vs-how-it-works.svg"),
     ("2_Why_UIUX_Matters-f9265c92-3573-4ea9-b3ab-c33d48b91baa.png", "define-success.svg"),
     ("3_Understanding_Users-48d263e9-03d6-468e-b31b-5ae5e8d2e01d.png", "start-with-problems.svg"),
