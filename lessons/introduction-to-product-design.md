@@ -65,6 +65,8 @@ It is easy to jump straight into implementation. You might start building an aut
 
 A polished interface cannot fix a product that solves the wrong problem. A strong idea still fails if users cannot figure out how to use it.
 
+![Product design decides what to build; UI/UX design focuses on how people use it](../assets/lesson-02/what-to-build-vs-how-it-works.svg)
+
 **What is the main difference between product design and UI/UX design?**
 
 - ✓ Product design decides what to build; UI/UX design focuses on how people use it
@@ -94,6 +96,8 @@ A salon owner might ask for "an app with push notifications and loyalty points."
 Product thinking reframes the request around the actual user need before you decide what to build.
 
 Teams often receive requests phrased as solutions: "Add a dashboard," "Build an export button," "Support webhooks." The better move is to understand the problem behind the request before treating it as a spec.
+
+![Understand who users are, what they need, what motivates them, and what frustrates them](../assets/lesson-02/start-with-problems.svg)
 
 **What should you prioritize before adding features?**
 
@@ -207,6 +211,8 @@ If you know what success looks like, you can measure it, track the right signals
 
 Metrics do not replace empathy. They help you know whether you solved the right problem or just shipped something that looks finished.
 
+![Define success across the user journey: first impressions, friction, conversions, and loyalty](../assets/lesson-02/define-success.svg)
+
 **Why define success metrics early?**
 
 - ✓ So you know whether the product actually worked
@@ -244,6 +250,8 @@ The core job might be helping users understand where their money goes each month
 
 Good prioritization keeps you focused on the outcome users care about most.
 
+![Good structure helps teams prioritize what belongs in the product and reduce confusion](../assets/lesson-02/mvp-and-prioritization.svg)
+
 **What is an MVP?**
 
 - A product with every feature stakeholders request
@@ -280,6 +288,8 @@ Instead of guessing, treat decisions as **hypotheses**:
 Hypotheses can be tested, measured, and revised. That keeps product thinking grounded in reality instead of opinion alone.
 
 This mindset helps you move faster with less guesswork. You can test the smallest version of an idea, measure the result, and learn from it.
+
+![Map the path users take to complete a task and identify friction early](../assets/lesson-02/making-product-decisions.svg)
 
 **Why use hypotheses when building a product?**
 
@@ -334,7 +344,11 @@ Validate ideas through:
 
 You do not need a large research team to do this. Watch someone use your prototype. Share an early version with five users. Track whether people complete the core workflow.
 
+![Test assumptions through an ongoing cycle of observe, learn, iterate, and improve](../assets/lesson-02/testing-assumptions.svg)
+
 If users struggle with a core flow, the problem may not be button color. It may be unclear scope, too many steps, missing context, or the wrong feature priority.
+
+![Polished interfaces can feel convincing, but they cannot replace testing whether users can complete core tasks](../assets/lesson-02/testing-beyond-mockups.svg)
 
 Be careful not to confuse positive reactions with real progress. Polished mockups can feel convincing because of the **aesthetic-usability effect**: people often perceive attractive products as easier to use, even when the underlying experience still has problems. Good visual design builds trust, but it cannot replace testing whether users can actually complete important tasks.
 
